@@ -3,7 +3,7 @@
 
 I'm currently study Computer Science Engineering at [EPN](www.epn.edu.ec)
 
-<br>
+<br />
 <img width="30" height="30" src= "https://avatars.githubusercontent.co/u/84605041?s=200&v=4">
 <!--
 ! para tomar un icono

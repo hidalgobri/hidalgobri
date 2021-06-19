@@ -1,7 +1,7 @@
 ## Hi everyone, I'm Valeria 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=hidalgobri.hidalgobri)
 
-I'm currently studying Computer Science Engineering at [EPN](www.epn.edu.ec)
+I'm currently studying Computer Science Engineering at [EPN](https://www.epn.edu.ec)
 <!--
 ! para tomar un icono
 [nombre del enlace]
